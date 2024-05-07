@@ -1,14 +1,53 @@
-# Игра АРЕНА
+<a name="readme-top"></a>
+<!-- PROJECT LOGO -->
+<div align='center'>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" height="95" alt="Python">
+  </a>
+  <a>
+    <img src="https://cdn.pixabay.com/photo/2014/04/03/10/01/coliseum-309629_1280.png" height="100" alt="Arena" hspace="10">
+  </a>
+  </a>
+  <a>
+    <img src="https://cdn.pixabay.com/photo/2016/10/26/14/29/gladiator-1771625_1280.png" height="120" alt="Gladiator" hspace="0">
+  </a>
 
-> *хакатон в Яндекс.Практикуме 15.02.24*
->
+<h3 align="center">Игра Арена</h3>
+
+  <p align="center">
+    Консольная игра о гладиаторах, выполненная в рамках хакатона
+  </p>
+</div>
+
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Оглавление</summary>
+  <ol>
+    <li>
+      <a href="#Общее об игре">Общее об игре</a>
+    </li>
+    <li>
+      <a href="#Описание игры">Описание игры</a>
+      <ul>
+        <li><a href="#Игровые объекты">Игровые объекты</a></li>
+        <li><a href="#Алгоритм проведения боя">Алгоритм проведения боя</a></li>
+        <li><a href="#ВАЖНО!!!">ВАЖНО!!!</a></li>
+      </ul>
+    </li>
+    <li><a href="#Контакты">Контакты</a></li>
+  </ol>
+</details>
+
+
+## Общее об игре
+
 > *время на выполнение задания - 2 часа*
 
 Мини-игра арена, на которую добавляются персонажи и сражаются между собой. Игра определяет победителя в консоли.
 
 Для запуска вам потребуется только среда разработки, через которую можно запускать код для выполнения.
 
-## **Описание игры**
+## Описание игры
 
 ### *Игровые объекты*
 
@@ -35,6 +74,8 @@
 
         - **Воин** (наследник класса Person): `class Warrior`
         Базовое значение **атаки умножается на 2**.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### *Алгоритм проведения боя*
 
@@ -65,3 +106,13 @@
 ### **ВАЖНО!!!**
 
 > Не забывайте о веселье
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Контакты
+
+**Александр Сафарьянц** Backend developer
+
+[![Gmail Badge](https://img.shields.io/badge/-safariantc.aa@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:safariantc.aa@gmail.com)](mailto:safariantc.aa@gmail.com)<p align='left'>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
